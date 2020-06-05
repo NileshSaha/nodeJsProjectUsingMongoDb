@@ -1,3 +1,3 @@
 ##This is for learning purpose
 
-This is using mysql db.
+This is using mongo db.
